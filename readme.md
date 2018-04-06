@@ -13,7 +13,6 @@ To add this to your windows startup:
 * Type `shell:startup`
 * Right click drag the .exe into the start up folder and choose "Create shortcuts here"
 
-
 ## Screenshot
 
 Here is the error message it combats:
