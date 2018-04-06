@@ -5,4 +5,5 @@ During the migration from on-premises Exchange to Exchange 365 here at Felinesof
 Run this program [Office certificate fix](Office%20certificate%20fix.exe?raw=true) and it will check for the message every half second and press "yes" when it appears.
 
 Here is the error message it combats:
-![error message](security popup.png)
+
+![error message](security%20popup.png)
