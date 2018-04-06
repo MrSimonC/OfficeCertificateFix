@@ -11,7 +11,10 @@ To add this to your windows startup:
 * Save [Office certificate fix](Office%20certificate%20fix.exe?raw=true) to your choice of location
 * Windows key + R
 * Type `shell:startup`
-* right click drag the .exe into the start up folder and choose "Create shortcuts here"
+* Right click drag the .exe into the start up folder and choose "Create shortcuts here"
+
+
+## Screenshot
 
 Here is the error message it combats:
 
