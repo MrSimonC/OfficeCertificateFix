@@ -32,6 +32,11 @@ Loop
 		WinActivate, A
 		ControlClick, Button2, Security Alert ahk_exe UcMapi.exe
 	}
+	IfWinExist, Security Alert ahk_exe lync.exe
+	{
+		WinActivate, A
+		ControlClick, Button2, Security Alert ahk_exe lync.exe
+	}
 	Sleep 500
 }
 
