@@ -8,10 +8,10 @@ Run this program [Office certificate fix](Office%20certificate%20fix.exe?raw=tru
 
 To add this to your windows startup:
 
-* Save [Office certificate fix](Office%20certificate%20fix.exe?raw=true) to your choice of location
 * Windows key + R
 * Type `shell:startup`
-* Right click drag the .exe into the start up folder and choose "Create shortcuts here"
+* Save [Office certificate fix](Office%20certificate%20fix.exe?raw=true) to the startup folder
+* Double click to test the .exe _(you'll likely have a windows warning, but press "More Info", and "Run", as this will only come up once)_
 
 ## Screenshot
 
