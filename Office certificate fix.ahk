@@ -37,6 +37,11 @@ Loop
 		WinActivate, A
 		ControlClick, Button2, Security Alert ahk_exe lync.exe
 	}
+	IfWinExist, Security Alert ahk_class #32770
+	{
+		WinActivate, A
+		ControlClick, Button2, Security Alert ahk_exe FCIndexing64.exe
+	}
 	Sleep 500
 }
 
